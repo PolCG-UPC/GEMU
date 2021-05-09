@@ -11,7 +11,7 @@ export default function CloseButton() {
         backgroundColor: 'purple',
       }}
     >
-      x {/*import png*/}
+      x {/* import png*/}
     </div>
   );
 }
