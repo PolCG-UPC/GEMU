@@ -9,7 +9,7 @@ export default function ReturnMenuButton() {
         color: 'purple',
       }}
     >
-      = {/*import png*/}
+      = {/* import png*/}
     </div>
   );
 }
